@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/1187-budget-threshold-alerts",
+    "main",
+    "origin",
+    "solver/issue-1178-36-a0",
+    "solver/issue-1187-86-a0"
+  ],
+  "parent": {
+    "feat/1187-budget-threshold-alerts": "main",
+    "main": null,
+    "origin": "main",
+    "solver/issue-1178-36-a0": "main",
+    "solver/issue-1187-86-a0": "main"
+  },
+  "order": [
+    "main",
+    "feat/1187-budget-threshold-alerts",
+    "origin",
+    "solver/issue-1178-36-a0",
+    "solver/issue-1187-86-a0"
+  ]
+}
